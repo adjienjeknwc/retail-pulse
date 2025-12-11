@@ -1,8 +1,7 @@
 import axios from 'axios';
 
-// WE ARE HARDCODING THE LINK TO FORCE IT TO WORK
-// Make sure this link is your exact Render URL + /api
-const API_URL = 'https://retail-pulse-backend.onrender.com/api';
+// THIS IS YOUR EXACT RENDER URL FROM THE SCREENSHOT
+const API_URL = 'https://retail-pulse-q5d0.onrender.com/api';
 
 const API = axios.create({ baseURL: API_URL });
 
