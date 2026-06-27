@@ -1,6 +1,6 @@
-Here is a comprehensive, professional README.md draft for your RetailPulse project, tailored for your portfolio to impress tech recruiters and showcase your dual expertise in Software Engineering and Business Analysis.
-
 RetailPulse 🛒📊
+
+
 RetailPulse is a robust full-stack web application designed to optimize pantry management and drive revenue acceleration for small-to-medium retail businesses. By leveraging the MERN stack, the platform bridges the gap between real-time inventory tracking and actionable financial analytics, minimizing waste while maximizing profitability.
  vercel link - https://retail-pulse-eta.vercel.app
 🚀 Features
